@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rabobank Assignment</string>
+    <string name="user_details">User Details</string>
+    <string name="issues">Issues</string>
+    <string name="surname_firstname">Surname Firstname</string>
+    <string name="date_of_birth">date of birth</string>
+    <string name="sample_25">25</string>
+</resources>
